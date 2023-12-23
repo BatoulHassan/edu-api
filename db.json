@@ -1,0 +1,163 @@
+{
+    "courses": [
+        {
+            "id": "1",
+            "courseImg": "https://img.freepik.com/free-photo/smiling-students-with-backpacks_1098-1220.jpg",
+            "lessonNum": "43",
+            "evaluation": "4.8",
+            "title": "Course1",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "87.00"
+        },
+        {
+            "id": "2",
+            "courseImg": "https://media.istockphoto.com/id/1447889800/photo/two-college-student-female-friends-smiling-ready-for-classes-at-the-university-campus.webp?b=1&s=170667a&w=0&k=20&c=M1Lvq7d-B4vrGasRQJCsvUO5zJdOvwvswjqaWmHPYyA=",
+            "lessonNum": "50",
+            "evaluation": "4.9",
+            "title": "Course2",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "100.00"
+        },
+        {
+            "id": "3",
+            "courseImg": "https://t3.ftcdn.net/jpg/03/88/97/92/360_F_388979227_lKgqMJPO5ExItAuN4tuwyPeiknwrR7t2.jpg",
+            "lessonNum": "45",
+            "evaluation": "4.5",
+            "title": "Course3",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "85.00"
+        },
+        {
+            "id": "4",
+            "courseImg": "https://t4.ftcdn.net/jpg/04/24/15/27/360_F_424152729_5jNBK6XVjsoWvTtGEljfSCOWv4Taqivl.jpg",
+            "lessonNum": "40",
+            "evaluation": "4.7",
+            "title": "Course4",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "90.00"
+        },
+        {
+            "id": "5",
+            "courseImg": "https://images.picxy.com/cache/2020/10/26/85339e921a05d4a6c4750defcd8ff7d7.jpg",
+            "lessonNum": "30",
+            "evaluation": "4.9",
+            "title": "Course5",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "90.00"
+        },
+        {
+            "id": "6",
+            "courseImg": "https://img.freepik.com/premium-photo/asian-indian-college-students-receives-degree-certificate-while-friends-celebrates-college-campus-outdoors_466689-8149.jpg",
+            "lessonNum": "53",
+            "evaluation": "5.2",
+            "title": "Course6",
+            "cosrseInfo": "Lorem ipsum dolor sit amet once is consectetur adipisicing elit optio",
+            "price": "80.00"
+        }
+    ],
+
+    "students": [
+        {
+            "personalImg": "https://img.freepik.com/premium-photo/teenager-student-girl-yellow-pointing-finger-side_1368-40175.jpg",
+            "name": "Suzan Andre",
+            "id": "1234567899",
+            "age": "20",
+            "country": "Syria",
+            "email": "suzan@info.com"
+        },
+        {
+            "personalImg": "https://img.freepik.com/free-photo/happy-young-female-student-holding-notebooks-from-courses-smiling-camera-standing-spring-clothes-against-blue-background_1258-70161.jpg?size=626&ext=jpg&ga=GA1.1.1222169770.1701993600&semt=sph",
+            "name": "Terry Medhurst",
+            "id": "1234567888",
+            "age": "24",
+            "country": "Jordan",
+            "email": "suzan@info.com"
+        },
+        {
+            "personalImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_uKVbBGYCfxZv1jIUbtlm_p9P4GekrrNMm0HGZHs7jOlDLADBNZjvALKAMIxFWIvL3U&usqp=CAU",
+            "name": "Miles Cummerata",
+            "id": "1234567877",
+            "age": "22",
+            "country": "Egypt",
+            "email": "suzan@info.com"
+        },
+        {
+            "personalImg": "https://media.istockphoto.com/id/1365601848/photo/portrait-of-a-young-woman-carrying-her-schoolbooks-outside-at-college.jpg?s=612x612&w=0&k=20&c=EVxLUZsL0ueYFF1Nixit6hg-DkiV52ddGw_orw9BSJA=",
+            "name": "Alison Reichert",
+            "id": "1234567866",
+            "age": "19",
+            "country": "iRAQ",
+            "email": "suzan@info.com"
+        },
+        {
+            "personalImg": "https://media.istockphoto.com/id/1301397300/photo/portrait-of-young-woman-stock-photo.jpg?s=612x612&w=0&k=20&c=Xvgo-k58_woBTuQaRNZ4JXP2SQsw_RSbrlSbt7XbQlU=",
+            "name": "Oleta Abbott",
+            "id": "1234567855",
+            "age": "20",
+            "country": "USA",
+            "email": "suzan@info.com"
+        },
+        {
+            "personalImg": "https://thumbs.dreamstime.com/b/young-asian-male-student-smartphone-hand-wearing-t-shirt-backpack-standing-university-stairs-looks-athletic-158077430.jpg",
+            "name": "Ewell Mueller",
+            "id": "1234567844",
+            "age": "23",
+            "country": "UAE",
+            "email": "suzan@info.com"
+        }
+    ],
+
+    "teachers" : [
+        {
+            "id": "1",
+            "personalImg": "https://st4.depositphotos.com/13194036/22902/i/450/depositphotos_229023724-stock-photo-female-teacher-pointing-finger-mathematical.jpg",
+            "title": "Mina Collins",
+            "job": "Teacher in Math",
+            "desc": "Far far away, behind the world mountain, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "facebook": "/#",
+            "twitter": "/#",
+            "linkedin": "/#"
+          },
+          {
+            "id": "2",
+            "personalImg": "https://t3.ftcdn.net/jpg/03/92/77/16/360_F_392771624_dcSMFCBGzM0qvCZZX6foAbsy70Y7llQE.jpg",
+            "title": "Anderson Matthew",
+            "job": "Teacher in English",
+            "desc": "Far far away, behind the world mountain, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "facebook": "/#",
+            "twitter": "/#",
+            "linkedin": "/#"
+          },
+          {
+            "id": "3",
+            "personalImg": "https://c8.alamy.com/comp/2EMP75K/online-e-education-concept-teacher-explaining-lesson-to-a-classroom-behind-him-blackboard-with-writing-e-learning-online-courses-lecturer-does-2EMP75K.jpg",
+            "title": "Cynthia Misso",
+            "job": "Teacher in Music",
+            "desc": "Far far away, behind the world mountain, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "facebook": "/#",
+            "twitter": "/#",
+            "linkedin": "/#"
+          },
+          {
+            "id": "4",
+            "personalImg": "https://moneywiseteacher.com/wp-content/uploads/2020/12/when-do-teachers-get-paid-758x455.jpg",
+            "title": "Terry Medhurst",
+            "job": "Teacher in History",
+            "desc": "Far far away, behind the world mountain, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "facebook": "/#",
+            "twitter": "/#",
+            "linkedin": "/#"
+          },
+          {
+            "id": "5",
+            "personalImg": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg",
+            "title": "Alison Reichert",
+            "job": "Teacher in Math",
+            "desc": "Far far away, behind the world mountain, far from the countries Vokalia and Consonantia, there live the blind texts.",
+            "facebook": "/#",
+            "twitter": "/#",
+            "linkedin": "/#"
+          }
+    ]
+}
+
